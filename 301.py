@@ -6,7 +6,7 @@
 gallonUsed = 0
 gallonUsedTotal = 0
 miles = 0
-totalMiles = 0
+totalMiles = 0 
 while gallonUsed >= 0:
     gallonUsed = (input("Enter the gallons used (-1 to end): "))
     gallonUsed = float(gallonUsed)
